@@ -3,8 +3,9 @@
 Steps:
 
 1. create virtual environment
-2. install requirements.txt
-3. makemigrations
-4. migrate
-5. createsuperuser
-6. runserver
+2. activate venv
+3. install requirements.txt
+4. makemigrations
+5. migrate
+6. createsuperuser
+7. runserver
